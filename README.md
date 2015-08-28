@@ -1,2 +1,2 @@
-# rails-3rd_party_API_-integrations
-Report unhandled exceptions to Slack and create a support ticket in Zendesk
+# rails-3rd_party_API_integrations
+Example integration implemetation of Slack (slack.com) and Zendesk (zendesk.com)
